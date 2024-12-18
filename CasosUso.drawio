@@ -4,17 +4,64 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-1" target="KaAmGU0IdU2BdLcn3JTv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KaAmGU0IdU2BdLcn3JTv-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="100" width="30" height="60" as="geometry" />
+          <mxGeometry x="20" y="305" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaAmGU0IdU2BdLcn3JTv-2" value="poggers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="240" width="140" height="70" as="geometry" />
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-3" target="KaAmGU0IdU2BdLcn3JTv-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaAmGU0IdU2BdLcn3JTv-3" value="skibididi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="300" width="140" height="70" as="geometry" />
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-3" target="KaAmGU0IdU2BdLcn3JTv-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaAmGU0IdU2BdLcn3JTv-4" value="gooning" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="140" height="70" as="geometry" />
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-3" value="Threath Analysis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-5" target="KaAmGU0IdU2BdLcn3JTv-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-5" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-6" target="KaAmGU0IdU2BdLcn3JTv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-6" value="Resgister" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-7" target="KaAmGU0IdU2BdLcn3JTv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-7" value="File Analysis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-8" target="KaAmGU0IdU2BdLcn3JTv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-8" value="URL Analysis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-9" target="KaAmGU0IdU2BdLcn3JTv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-9" value="Submit File" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaAmGU0IdU2BdLcn3JTv-10" target="KaAmGU0IdU2BdLcn3JTv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-10" value="Submit URL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-11" value="Generate Report" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="690" height="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
