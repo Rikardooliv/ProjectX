@@ -63,6 +63,9 @@
         <mxCell id="KaAmGU0IdU2BdLcn3JTv-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="690" height="690" as="geometry" />
         </mxCell>
+        <mxCell id="KaAmGU0IdU2BdLcn3JTv-28" value="ProjectX&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
