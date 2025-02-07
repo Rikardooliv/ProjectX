@@ -26,3 +26,6 @@ Incorporar data fornecida pelos utilizadores de forma anónima, para treinar um 
 
 ******
 
+Atualizações Constantes --- Para poder apresentar soluções mais simples e de forma mais esclarecedora.
+
+******
