@@ -20,7 +20,9 @@ Aparência Atual ---
 
 ******
 
-Objetivos Futuros --- Incorporar data fornecida pelos utilizadores de forma anónima, para treinar um modelo próprio de AI para melhor servir os interesses do nosso programa e constante tuning para poder apresentar soluções mais simples e de forma mais esclarecedora.
+Objetivos Futuros --- 
 
+Incorporar data fornecida pelos utilizadores de forma anónima, para treinar um modelo próprio de AI para melhor servir os interesses do nosso programa.
 
 ******
+
