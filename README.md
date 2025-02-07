@@ -14,6 +14,13 @@ Desenvolvido por --- Francisco Silva / Samuel Oliveira
 
 ******
 
-Aparência Final --- 
+Aparência Atual --- 
 
 ![WhatsApp Image 2025-02-07 at 22 39 36_6519ddd5](https://github.com/user-attachments/assets/0dae5371-a4b7-4984-82bc-ba63cd6202a8)
+
+******
+
+Objetivos Futuros --- Incorporar data fornecida pelos utilizadores de forma anónima, para treinar um modelo próprio de AI para melhor servir os interesses do nosso programa
+
+
+******
